@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8965738d-f26c-4a0e-99c6-cd63a8db1f94": {
+      "ProjectGuid": "8965738d-f26c-4a0e-99c6-cd63a8db1f94",
+      "DisplayName": "Leetcode",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
